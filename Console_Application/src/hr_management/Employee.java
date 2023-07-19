@@ -8,6 +8,7 @@ public class Employee
 {
 	
 	//basic info fields
+
 	int employeeID;
 	int reportingToID;
 	Role role;
